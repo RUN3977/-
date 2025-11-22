@@ -1,0 +1,5 @@
+{
+  "name": "InfoCup Circuit Simulator",
+  "description": "A simulation and visualization of the Analog Adder/Subtractor circuit based on the 16th InfoCup design report.",
+  "requestFramePermissions": []
+}
